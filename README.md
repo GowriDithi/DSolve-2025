@@ -20,6 +20,8 @@ Cybersecurity Escape Room is an interactive, gamified experience designed to edu
 ## 🎥 Product Demo
 [![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
 *Click the image above to view our product walkthrough*
+![Uploading cas1.jpeg…]()
+
 
 ## 🛠️ Tech Stack
 | Technology | Version |                  Purpose                      |
