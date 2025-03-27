@@ -18,7 +18,6 @@ Cybersecurity Escape Room is an interactive, gamified experience designed to edu
 - 🛡️ Multi-Factor Authentication (MFA) & Security Best Practices : Players create strong passwords, enable MFA, and understand password strength metrics, reinforcing real-world cybersecurity awareness.
 
 ## 🎥 Product Demo
-[![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
 *Click the image above to view our product walkthrough*
 ![cas1](https://github.com/user-attachments/assets/11b37f0d-9427-40b6-9fd7-556def285cc1)
 ![cas2](https://github.com/user-attachments/assets/a3b07492-c64e-405a-a5cc-bb6628531879)
@@ -62,13 +61,14 @@ Cybersecurity Escape Room is an interactive, gamified experience designed to edu
 - Express.js & bcrypt.js,Speakeasy,PostgreSQL
 
 ### Installation
-```bash
-// {Enter the commands for installation here}
+```
+cd cyberquest
+npm install
 ```
 
 ### Running the Project
-```bash
-// {Enter the commands for running here}
+```
+npm run dev
 ```
 
 ## 🤝 How to Contribute
